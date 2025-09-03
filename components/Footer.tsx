@@ -9,7 +9,7 @@ export default function Footer(){
                     <Image src={"/logo.png"} alt="meldesign" width={36} height={36}/>
                     <p className="hidden md:block text-md font-medium tracking-wider text-white">MELDESIGN</p>
                 </Link>
-                <p className="text-sm text-gray-400 ">o 2025 MELDESIGN</p>
+                <p className="text-sm text-gray-400 ">@ 2025 MELDESIGN</p>
                 <p className="text-sm text-gray-400 ">All Rights Reserved</p>
             </div>
 
